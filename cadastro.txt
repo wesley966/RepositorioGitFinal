@@ -1,0 +1,7 @@
+Cadastro de Cliente
+
+Nome: Wesllei
+Endereço: Rua Juvenal
+Telefone: 12678146
+Cidade: Sao Pedreiro
+Email: hqwfeqwrf@gmail.com
