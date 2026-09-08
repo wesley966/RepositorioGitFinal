@@ -1,0 +1,5 @@
+Registro de Correção
+
+Correção realizada no projeto.
+
+Arquivo criado para representar uma manutenção no sistema.
