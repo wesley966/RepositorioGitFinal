@@ -25,3 +25,7 @@ Releases
 HTML
 README
 .gitIgnore
+
+## Versão atual
+
+Projeto atualizado após a primeira publicação.
